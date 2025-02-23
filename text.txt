@@ -1,2 +1,0 @@
-ocsp.apple.com
-ocsp2.apple.com
